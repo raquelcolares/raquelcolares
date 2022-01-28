@@ -7,5 +7,5 @@
 - :globe_with_meridians: Willing to relocate (worldwide)
 
 [![Linkedin Badge](https://img.shields.io/badge/-RaquelColares-blue?style=flat-the-badge&logo=linkedin&logoColor=white"&link=https://www.linkedin.com/in/raquel-colares-7b1327a0/)](https://www.linkedin.com/in/raquel-colares-7b1327a0/)
-
+[![Gmail Badge](https://img.shields.io/badge/-raquelcolaress@gmail.com-red?style=flat-the-badge&logo=linkedin&logoColor=white"&link=mailto:raquelcolaress@gmail.com)](raquelcolaress@gmail.com)
 
