@@ -1,5 +1,7 @@
 ### HELLO - OLÁ - SALUT 👋
 
+<img src="https://github.com/raquelcolares/raquelcolares/blob/main/79314-assistant-bot.gif">
+
 
 - 👩🏻‍🎓 Graduated in Engineering 
 - :computer: Specializing in Data Science 
