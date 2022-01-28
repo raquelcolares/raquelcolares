@@ -1,6 +1,6 @@
 ### HELLO - OLÁ - SALUT 👋
 
-<img src="https://github.com/raquelcolares/raquelcolares/blob/main/79314-assistant-bot.gif" width="800">
+<img src="https://github.com/raquelcolares/raquelcolares/blob/main/79314-assistant-bot.gif" width="500">
 
 - 👩🏻‍🎓 Graduated in Engineering 
 - :computer: Specializing in Data Science 
