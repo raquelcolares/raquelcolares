@@ -1,11 +1,10 @@
 ### HELLO - OLÁ - SALUT 👋
 
-<img src="https://github.com/raquelcolares/raquelcolares/blob/main/79314-assistant-bot.gif" width="500">
-
 - 👩🏻‍🎓 Graduated in Engineering 
 - :computer: Specializing in Data Science 
 - :speech_balloon: English (Fluent) - Portuguese (Native) - French (Basic to o Intermediate)
 - :globe_with_meridians: Willing to relocate (worldwide)
+<img src="https://github.com/raquelcolares/raquelcolares/blob/main/79314-assistant-bot.gif" width="500">
 
 #### Conect with me:
 
