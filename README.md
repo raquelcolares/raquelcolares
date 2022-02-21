@@ -1,7 +1,7 @@
 ### HELLO - OLÁ - SALUT 👋
 
 - 👩🏻‍🎓 Graduated in Engineering 
-- :bar_chart: Specializing in Data Science and Machine Learning 
+- :bar_chart: Specializing in Data Science and Artificial Intelligence 
 - :computer: MSc. student of Computer Science 
 - :speech_balloon: English (Fluent) - Portuguese (Native) - French (Basic to o Intermediate)
 - :globe_with_meridians: Willing to relocate (worldwide)
