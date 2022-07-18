@@ -1,7 +1,7 @@
 ### HELLO - OLÁ - SALUT 👋
 
-- 👩🏻‍🎓 Graduated in Engineering 
 - :bar_chart: Specializing in Data Science and Artificial Intelligence 
+- 👩🏻‍🎓 Graduated in Engineering 
 - :speech_balloon: English (Fluent) - Portuguese (Native) - French (Basic to o Intermediate)
 - :globe_with_meridians: Willing to relocate (worldwide)
 <img src="https://github.com/raquelcolares/raquelcolares/blob/main/79314-assistant-bot.gif" >
