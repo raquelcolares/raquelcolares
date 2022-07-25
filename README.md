@@ -12,6 +12,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-raquelcolaress@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raquelcolaress@gmail.com)](mailto:raquelcolaress@gmail.com)
  
 
+<div align="center">
+  <a href="https://github.com/raquelcolares">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raquelcolares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquelcolares&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
+
+   
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/raquelcolares/count.svg" />
