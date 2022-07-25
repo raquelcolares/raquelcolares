@@ -1,5 +1,4 @@
-### HELLO - OLÁ - SALUT 👋 </a>
-<p align="right">
+### HELLO - OLÁ - SALUT 👋 
 
 - :bar_chart: Specializing in Data Science and Artificial Intelligence 
 - 👩🏻‍🎓 Graduated in Engineering 
@@ -27,7 +26,6 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/raquelcolares/count.svg" />
 </p>
-
 
 <img src="https://github.com/raquelcolares/raquelcolares/blob/main/79314-assistant-bot.gif" >
 
