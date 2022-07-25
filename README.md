@@ -6,6 +6,13 @@
 - :globe_with_meridians: Willing to relocate (worldwide)
 
 
+## Things I am passionate about
+
+- 📈 
+- 🤖 Deep Learning
+- 
+
+
 ### Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-RaquelColares-blue?style=flat-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/raquel-colares-7b1327a0/)](https://www.linkedin.com/in/raquel-colares-7b1327a0/)
