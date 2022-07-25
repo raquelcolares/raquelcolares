@@ -1,4 +1,4 @@
-### HELLO - OLÁ - SALUT 👋  <img align="right" src="[readme.main/hello-gif.gif](https://github.com/raquelcolares/raquelcolares/blob/main/hello-gif.gif)" width="29px">
+### HELLO - OLÁ - SALUT 👋  <img align="left" src="readme.main/hello-gif.gif" width="29px">
 
 - :bar_chart: Specializing in Data Science and Artificial Intelligence 
 - 👩🏻‍🎓 Graduated in Engineering 
