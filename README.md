@@ -1,4 +1,4 @@
-## HELLO - OLÁ - SALUT 👋
+### HELLO - OLÁ - SALUT 👋
 
 - :bar_chart: Specializing in Data Science and Artificial Intelligence 
 - 👩🏻‍🎓 Graduated in Engineering 
@@ -6,10 +6,10 @@
 - :globe_with_meridians: Willing to relocate (worldwide)
 
 
-## Connect with me:
+### Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-RaquelColares-blue?style=flat-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/raquel-colares-7b1327a0/)](https://www.linkedin.com/in/raquel-colares-7b1327a0/)
-
+ <a href = "mailto:raquelcolaress@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <p align="center"> 
   Visitor count<br>
