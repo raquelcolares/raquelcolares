@@ -17,6 +17,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raquelcolares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquelcolares&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
 
+![Raquel's github stats](https://github-readme-stats.vercel.app/api?username=raquelcolares&count_private=true&show_icons=true&theme=algolia)
    
 <p align="center"> 
   Visitor count<br>
