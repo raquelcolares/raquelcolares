@@ -1,4 +1,4 @@
-### HELLO - OLÁ - SALUT 👋 
+### HELLO - OLÁ - SALUT 👋 </b> <img align="right" src="readme.main/hello-gif.gif" width="29px">
 
 - :bar_chart: Specializing in Data Science and Artificial Intelligence 
 - 👩🏻‍🎓 Graduated in Engineering 
