@@ -8,10 +8,10 @@
 
 ## Things I am passionate about
 
-- 📈 
-- 🤖 Deep Learning
-- 
-
+- 📈 Data Science
+- 🤖 Machine Learning
+- :brain: Deep Learning
+- :anatomical_heart: Artificial Intelligence in Medicine 
 
 ### Connect with me:
 
