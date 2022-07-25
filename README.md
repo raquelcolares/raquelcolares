@@ -9,7 +9,8 @@
 ### Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-RaquelColares-blue?style=flat-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/raquel-colares-7b1327a0/)](https://www.linkedin.com/in/raquel-colares-7b1327a0/)
- <a href = "mailto:raquelcolaress@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+[![Gmail Badge](https://img.shields.io/badge/-raquelcolaress@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raquelcolaress@gmail.com)](mailto:raquelcolaress@gmail.com)
+ 
 
 <p align="center"> 
   Visitor count<br>
