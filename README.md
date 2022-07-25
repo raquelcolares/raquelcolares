@@ -8,10 +8,10 @@
 
 ## Things I am passionate about
 
-- 📈 Data Science
-- 🤖 Machine Learning
+- :chart_with_upwards_trend: Data Science
+- :robot: Machine Learning
 - :brain: Deep Learning
-- :anatomical_heart: Artificial Intelligence in Medicine 
+- :stethoscope: Artificial Intelligence in Medicine 
 
 ### Connect with me:
 
