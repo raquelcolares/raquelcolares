@@ -12,7 +12,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-raquelcolaress@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raquelcolaress@gmail.com)](mailto:raquelcolaress@gmail.com)
  
 
-![Raquel's github stats](https://github-readme-stats.vercel.app/api?username=raquelcolares&count_private=true&show_icons=true&theme=algolia)
+![Raquel's github stats](https://github-readme-stats.vercel.app/api?username=raquelcolares&count_private=true&show_icons=true&theme=dracula)
    
 <p align="center"> 
   Visitor count<br>
