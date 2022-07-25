@@ -1,4 +1,5 @@
-### HELLO - OLÁ - SALUT 👋
+### HELLO - OLÁ - SALUT 👋 </a>
+<p align="right">
 
 - :bar_chart: Specializing in Data Science and Artificial Intelligence 
 - 👩🏻‍🎓 Graduated in Engineering 
