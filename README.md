@@ -12,6 +12,7 @@
 - :robot: Machine Learning
 - :brain: Deep Learning
 - :stethoscope: Artificial Intelligence in Medicine 
+- :books: 
 
 ### Connect with me
 
