@@ -18,8 +18,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-RaquelColares-blue?style=flat-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/raquel-colares-7b1327a0/)](https://www.linkedin.com/in/raquel-colares-7b1327a0/)
 [![Gmail Badge](https://img.shields.io/badge/-raquelcolaress@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raquelcolaress@gmail.com)](mailto:raquelcolaress@gmail.com)
 
-![Raquel's github stats](https://github-readme-stats.vercel.app/api?username=raquelcolares&count_private=true&show_icons=true&theme=dracula&height=180) 
-![Raquel's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raquelcolares&layout=compact&langs_count=7&theme=dracula&height=360)
+![Raquel's github stats](https://github-readme-stats.vercel.app/api?username=raquelcolares&count_private=true&show_icons=true&theme=dracula&width=180) 
+![Raquel's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raquelcolares&layout=compact&langs_count=7&theme=dracula&width=180)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
    
