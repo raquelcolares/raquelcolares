@@ -23,9 +23,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquelcolares&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-
-![Raquel's github stats](https://github-readme-stats.vercel.app/api?username=raquelcolares&count_private=true&show_icons=true&theme=dracula)
-<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquelcolares&layout=compact&langs_count=7&theme=dracula"/>
    
 <p align="center"> 
   Visitor count<br>
