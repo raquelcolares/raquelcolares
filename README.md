@@ -24,8 +24,8 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquelcolares&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-![Raquel's github stats](https://github-readme-stats.vercel.app/api?username=raquelcolares&count_private=true&show_icons=true&theme=draculaheight=180)
-![Raquel's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raquelcolares&layout=compact&langs_count=7&theme=draculaheight=180)
+![Raquel's github stats](https://github-readme-stats.vercel.app/api?username=raquelcolares&count_private=true&show_icons=true&theme=dracula&height=180)
+![Raquel's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raquelcolares&layout=compact&langs_count=7&theme=dracula&height=180)
 
    
 <p align="center"> 
