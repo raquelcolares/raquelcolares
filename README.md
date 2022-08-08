@@ -8,10 +8,13 @@
 
 ### Things I am passionate about
 
+- :yellow_heart: STEM - Science, technology, engineering, and mathematics
 - :chart_with_upwards_trend: Data Science
 - :robot: Machine Learning
 - :brain: Deep Learning
 - :stethoscope: Artificial Intelligence in Medicine 
+- :computer: Front-end web development
+
 
 ### Connect with me
 
