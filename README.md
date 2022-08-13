@@ -13,7 +13,6 @@
 - :robot: Machine Learning
 - :brain: Deep Learning
 - :stethoscope: Artificial Intelligence in Medicine 
-- :computer: Front-end web development
 
 
 ### Connect with me
