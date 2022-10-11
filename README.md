@@ -35,5 +35,5 @@
 </p>
 
 
-<img src="https://github.com/raquelcolares/raquelcolares/blob/main/79314-assistant-bot.gif" width="100"/>
+<img src="https://github.com/raquelcolares/raquelcolares/blob/main/79314-assistant-bot.gif" width="350" height="160"/>
 
