@@ -2,7 +2,7 @@
 
 - :bar_chart: Specializing in Data Science and Artificial Intelligence 
 - 👩🏻‍🎓 Graduated in Engineering 
-- :speech_balloon: English (Fluent) - Portuguese (Native) - French (Basic to o Intermediate)
+- :speech_balloon: English (Fluent) - Portuguese (Native) - French (Basic)
 
 
 
