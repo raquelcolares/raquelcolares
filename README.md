@@ -1,8 +1,8 @@
 ### HELLO - OLÁ - SALUT 👋  
 
 - Artificial Intelligence student 
-- :bar_chart: Specialist in Data Science 
-- 👩🏻‍🎓 Graduated in Engineering 
+- Specialist in Data Science 
+- Graduated in Engineering 
 - :speech_balloon: English (Fluent) - Portuguese (Native) - French (Basic)
 
 
