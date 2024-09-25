@@ -4,7 +4,7 @@
 - Data Science Specialist
 - Bachelor in Engineering 
 
-:speech_balloon: English (Fluent) - Portuguese (Native) - French (Basic to intermediate)
+:speech_balloon: English (Fluent) - Portuguese (Native) - French (Intermediate)
 
 
 
