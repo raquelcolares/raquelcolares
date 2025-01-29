@@ -1,7 +1,7 @@
 ### HELLO - OLÁ - SALUT 👋  
 
 - Artificial Intelligence student 
-- Data Science Specialist
+- Data Scientist Specialist
 - Bachelor in Engineering 
 
 :speech_balloon: English (Fluent) - Portuguese (Native) - French (Intermediate)
@@ -14,7 +14,6 @@
 - :chart_with_upwards_trend: Data Science
 - :robot: Machine Learning
 - :brain: Deep Learning
-- :stethoscope: Artificial Intelligence in Medicine 
 
 
 ### Connect with me
