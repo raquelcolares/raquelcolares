@@ -6,6 +6,7 @@
 
 :speech_balloon: English (Fluent) - French (Intermediate) - Portuguese (Native)
 
+---
 
 ### Things I am passionate about
 
@@ -14,6 +15,22 @@
 - :robot: Machine Learning
 - :brain: Deep Learning
 
+---
+
+### 🛠️ Skills
+
+- Programming & Tools: Python, SQL, Git, GitHub, OOP
+- Libraries & Frameworks: Pandas, NumPy, Scikit-learn, PyTorch
+- Machine Learning: Supervised and unsupervised learning, Feature engineering, Model evaluation
+- Deep Learning: Neural networks, Convolutional Neural Networks (CNNs), Transformers, LLMs, Multimodal models, Autoencoders
+- Generative Models: Variational Autoencoders (VAEs), GANs, Diffusion Models, Autoregressive Models
+- Natural Language Processing: NLP pipelines, LLM fine-tuning, Semantic search
+- Data Visualization: Power BI, Streamlit, Matplotlib, Seaborn, Plotly
+- Problem-solver
+- Solid mathematical background 
+- Attentive to detail
+
+---
 
 ### Connect with me
 
