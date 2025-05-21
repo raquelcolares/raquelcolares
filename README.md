@@ -1,4 +1,4 @@
-### HELLO - OLÁ - SALUT 👋  
+### HELLO - SALUT - OLÁ 👋  
 
 - Artificial Intelligence Specialist 
 - Data Scientist 
