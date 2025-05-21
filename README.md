@@ -4,8 +4,7 @@
 - Data Scientist 
 - Engineer
 
-:speech_balloon: English (Fluent) - Portuguese (Native) - French (Intermediate)
-
+:speech_balloon: English (Fluent) - French (Intermediate) - Portuguese (Native)
 
 
 ### Things I am passionate about
