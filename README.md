@@ -35,8 +35,13 @@
 
 ### Connect with me
 
-[![Linkedin Badge](https://img.shields.io/badge/-RaquelColares-blue?style=flat-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/raquel-colares)](https://www.linkedin.com/in/raquel-colares)
-[![Gmail Badge](https://img.shields.io/badge/-raquelcolaress@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raquelcolaress@gmail.com)](mailto:raquelcolaress@gmail.com)
+
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIN-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raquel-colares)
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:raquelcolaress@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-Website-9146FF?style=flat-square&logo=Google-Chrome&logoColor=white)](https://raquelcolares.github.io/)
+
+
+
 
 
 <div align="center">
